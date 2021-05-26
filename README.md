@@ -2,7 +2,7 @@
 
 ### Hi 👋
 I am recent web designer graduate looking for opportunities and collabaration in projects.
-- 🐢 I’m currently making websites.
+- 🥚 I’m currently making websites.
 - 🦕 I’m currently learning Javacript, UI Design and UX Design.
 - 🦖 I’m looking to collaborate on websites and javascript projects.
 
