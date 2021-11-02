@@ -9,7 +9,7 @@
 
 ##### BIO
 
-- 🏢 I'm currently working at **Medicare Portugal**
+- 🏢 I'm currently working at **Mango5**
 - ⚙️ I use daily: `.js`, `.html`, `.css`, `.svg`, `.jsx`
 - 🌱 Learning **React**
 - 💬 Ping me about **css** 🤯
