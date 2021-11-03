@@ -17,5 +17,4 @@
 
 <div align="center">
   <img src='https://random-memer.herokuapp.com/' width="500" title="Meme" alt="Please refresh the page if the meme doesn't show up." display="block" margin="0 auto">
-     <img src="https://jul10l1r4.github.io/HTTP_-_Resposta/img/404" />
 </div>
