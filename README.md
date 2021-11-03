@@ -15,6 +15,6 @@
 - 💬 Ping me about **css** 🤯
 - 📫 Reach me: [twitter.com/palmaxp_jp](https://twitter.com/palmaxp_jp)
 
-<div align="center">
-  <img src='https://random-memer.herokuapp.com/' width="500" title="Meme" alt="Please refresh the page if the meme doesn't show up." display="block" margin="0 auto">
-</div>
+// <div align="center">
+//  <img src='https://random-memer.herokuapp.com/' width="500" title="Meme" alt="Please refresh the page if the meme doesn't show up." display="block" margin="0 auto">
+// </div>
