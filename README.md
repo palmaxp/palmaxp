@@ -4,7 +4,7 @@
 
 ##### NOW
 
-- ✨ Crafted last [NBA](https://palmaxp.github.io/projects/sites/nba) website;
+- ✨ Crafted last [getP](https://palmaxp.github.io/getp);
 - 🍑 What about this?
 
 ##### BIO
