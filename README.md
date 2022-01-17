@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Front-End Developer working in Itapema, Brazil.
+#### I'm a Front-End Developer working in Balneário Camboriú, Brazil.
 
 ##### NOW
 
