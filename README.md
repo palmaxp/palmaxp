@@ -9,7 +9,7 @@
 
 ##### BIO
 
-- 🏢 I'm currently working at **Mango5**
+- 🏢 I'm currently working at **sixbase**
 - ⚙️ I use daily: `.js`, `.html`, `.css`, `.scss`, `.svg`, `.jsx`
 - 🌱 Learning **React**
 - 💬 Ping me about **css** 🤯
