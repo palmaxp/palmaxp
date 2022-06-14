@@ -13,7 +13,6 @@
 - ⚙️ I use daily: `.js`, `.html`, `.css`, `.scss`, `.svg`, `.jsx`
 - 🌱 Learning **React**
 - 💬 Ping me about **css** 🤯
-- 📫 Reach me: [twitter.com/palmaxp_jp](https://twitter.com/palmaxp_jp)
 
 
 <div align="center">
