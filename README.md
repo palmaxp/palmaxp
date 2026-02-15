@@ -26,6 +26,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/palmaxp/palmax/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/palmaxp/palmaxp/output/snake.svg" alt="Snake animation" />
 
 ###
