@@ -1,9 +1,9 @@
 <p align="center">
   <a href="https://github.com/palmaxp">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-      <img src="assets/banner-light.svg" alt="João Palma · Engenheiro Full Stack · Produtos web para fintech e pagamentos, com React, Next.js e Node.js." width="100%">
+      <source media="(prefers-color-scheme: dark)" srcset="assets/banner-escuro.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/banner-claro.svg">
+      <img src="assets/banner-claro.svg" alt="João Palma · Engenheiro Full Stack · Produtos web para fintech e pagamentos, com React, Next.js e Node.js." width="100%">
     </picture>
   </a>
 </p>
