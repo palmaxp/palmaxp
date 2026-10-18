@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="João Palma, Engenheiro Full Stack. Construo produtos de pagamentos e fintech que as pessoas realmente terminam de usar.">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="João Palma, Engenheiro Full Stack. Produtos web para fintech e pagamentos, com React, Next.js e Node.js.">
   <rect width="1200" height="260" rx="14" fill="#0d1117"/>
   <rect x="0" y="0" width="8" height="260" rx="4" fill="#58a6ff"/>
   <text x="64" y="104" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="56" font-weight="700" fill="#f0f6fc">João Palma</text>
   <text x="64" y="150" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" font-weight="600" fill="#58a6ff">Engenheiro Full Stack</text>
-  <text x="64" y="196" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" fill="#9198a1">Construo produtos de pagamentos e fintech que as pessoas realmente terminam de usar.</text>
+  <text x="64" y="196" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" fill="#9198a1">Produtos web para fintech e pagamentos, com React, Next.js e Node.js.</text>
 </svg>

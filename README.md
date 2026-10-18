@@ -3,7 +3,7 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-      <img src="assets/banner-light.svg" alt="João Palma · Engenheiro Full Stack · Construo produtos de pagamentos e fintech que as pessoas realmente terminam de usar." width="100%">
+      <img src="assets/banner-light.svg" alt="João Palma · Engenheiro Full Stack · Produtos web para fintech e pagamentos, com React, Next.js e Node.js." width="100%">
     </picture>
   </a>
 </p>
