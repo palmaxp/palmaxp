@@ -29,7 +29,7 @@ Engenheiro Full Stack em Itajaí (SC), trabalhando 100% remoto. Há mais de 5 an
 
 ## Projetos pessoais
 
-**[active-immersion-site](https://github.com/palmaxp/active-immersion-site)** · Site em Astro e TypeScript.
+**[Active Immersion](https://palmaxp.github.io/active-immersion-site/)** · Extensão de navegador (Chrome e Firefox) que transforma a navegação do dia a dia em imersão em inglês.
 
 > Boa parte do que construo vive em repositórios privados de empresas, por isso o portfólio público é enxuto. Os resultados acima vêm de métricas de produto reais.
 
