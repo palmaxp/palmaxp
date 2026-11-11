@@ -35,7 +35,6 @@ Engenheiro Full Stack em Itajaí (SC), trabalhando 100% remoto. Há mais de 5 an
 
 ## Experiência
 
-- 2025 até hoje · Engenheiro Full Stack Sênior, Cactus / SevenX (plataforma de apostas)
 - 2024 até hoje · Engenheiro Full Stack, PixToPay (pagamentos, KYC, backoffice, design system)
 - 2021 a 2024 · Engenheiro Full Stack, B4you (checkout e vendas para criadores digitais)
 
